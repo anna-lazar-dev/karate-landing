@@ -1,16 +1,45 @@
-# React + Vite
+# 🥋 Hajime Dojo — Karate School Landing
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Минималистичный лендинг для школы карате в стиле кёкусинкай.  
+Черно-бело-красная эстетика, современный UI и адаптивная верстка.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔥 Демо
 
-## React Compiler
+👉 https://anna-lazar-dev.github.io/karate-landing *(добавим позже)*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚡ Технологии
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- Tailwind CSS
+
+---
+
+## 📱 Функционал
+
+- Адаптивный дизайн (mobile-first)
+- Главная страница с hero-блоком
+- Раздел "О школе"
+- Форма записи
+- Кастомная 404 страница 🥋
+
+---
+
+## 🧠 Особенности
+
+- Минималистичный UI в стиле martial arts
+- Четкая визуальная иерархия
+- Быстрая загрузка
+- Готов к деплою
+
+---
+
+## 🚀 Установка и запуск
+
+```bash
+npm install
+npm run dev
